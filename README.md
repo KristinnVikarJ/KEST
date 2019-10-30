@@ -1,2 +1,2 @@
-# KEST
-KEST í tskola
+# VERK
+VERK í tskola
